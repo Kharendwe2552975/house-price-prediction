@@ -73,7 +73,7 @@ Models were evaluated using:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Kharendwe2552975/house-price-prediction.git
 cd house-price-prediction
 2. Install dependencies
 pip install -r requirements.txt
